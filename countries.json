@@ -1,0 +1,2016 @@
+{
+  "AD": {
+    "name": "Andorra",
+    "regions": [
+      {
+        "region": "Spain",
+        "share": 0.001
+      }
+    ]
+  },
+  "AE": {
+    "name": "United Arab Emirates",
+    "regions": [
+      {
+        "region": "UAE / Qatar",
+        "share": 0.543
+      }
+    ]
+  },
+  "AF": {
+    "name": "Afghanistan",
+    "regions": [
+      {
+        "region": "India",
+        "share": 0.009
+      }
+    ]
+  },
+  "AL": {
+    "name": "Albania",
+    "regions": [
+      {
+        "region": "Greece",
+        "share": 0.051
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.024
+      }
+    ]
+  },
+  "AM": {
+    "name": "Armenia",
+    "regions": [
+      {
+        "region": "Turkey",
+        "share": 0.011
+      }
+    ]
+  },
+  "AR": {
+    "name": "Argentina",
+    "regions": [
+      {
+        "region": "Brazil (east)",
+        "share": 0.012
+      },
+      {
+        "region": "Argentina",
+        "share": 0.891
+      },
+      {
+        "region": "Chile",
+        "share": 0.318
+      },
+      {
+        "region": "Uruguay",
+        "share": 0.056
+      }
+    ]
+  },
+  "AT": {
+    "name": "Austria",
+    "regions": [
+      {
+        "region": "Germany",
+        "share": 0.054
+      },
+      {
+        "region": "Switzerland",
+        "share": 0.049
+      },
+      {
+        "region": "Austria",
+        "share": 0.514
+      },
+      {
+        "region": "Czechia",
+        "share": 0.032
+      },
+      {
+        "region": "Hungary",
+        "share": 0.047
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.11
+      }
+    ]
+  },
+  "AU": {
+    "name": "Australia",
+    "regions": [
+      {
+        "region": "Australia",
+        "share": 1
+      }
+    ]
+  },
+  "AX": {
+    "name": "Åland",
+    "regions": [
+      {
+        "region": "Sweden",
+        "share": 0.002
+      },
+      {
+        "region": "Norway",
+        "share": 0.001
+      }
+    ]
+  },
+  "BA": {
+    "name": "Bosnia and Herz.",
+    "regions": [
+      {
+        "region": "Italy",
+        "share": 0.09
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.09
+      }
+    ]
+  },
+  "BD": {
+    "name": "Bangladesh",
+    "regions": [
+      {
+        "region": "India",
+        "share": 0.024
+      },
+      {
+        "region": "Bangladesh",
+        "share": 0.613
+      }
+    ]
+  },
+  "BE": {
+    "name": "Belgium",
+    "regions": [
+      {
+        "region": "France",
+        "share": 0.038
+      },
+      {
+        "region": "Netherlands",
+        "share": 0.117
+      },
+      {
+        "region": "Belgium",
+        "share": 0.552
+      }
+    ]
+  },
+  "BF": {
+    "name": "Burkina Faso",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.081
+      }
+    ]
+  },
+  "BG": {
+    "name": "Bulgaria",
+    "regions": [
+      {
+        "region": "Romania",
+        "share": 0.03
+      },
+      {
+        "region": "Greece",
+        "share": 0.06
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.015
+      }
+    ]
+  },
+  "BI": {
+    "name": "Burundi",
+    "regions": [
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.01
+      }
+    ]
+  },
+  "BJ": {
+    "name": "Benin",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.038
+      }
+    ]
+  },
+  "BN": {
+    "name": "Brunei",
+    "regions": [
+      {
+        "region": "Malaysia / Singapore",
+        "share": 0.012
+      },
+      {
+        "region": "Indonesia",
+        "share": 0.003
+      }
+    ]
+  },
+  "BO": {
+    "name": "Bolivia",
+    "regions": [
+      {
+        "region": "Peru",
+        "share": 0.008
+      },
+      {
+        "region": "Ecuador / Bolivia",
+        "share": 0.204
+      }
+    ]
+  },
+  "BR": {
+    "name": "Brazil",
+    "regions": [
+      {
+        "region": "Brazil (east)",
+        "share": 0.938
+      },
+      {
+        "region": "Brazil (north)",
+        "share": 0.993
+      },
+      {
+        "region": "Peru",
+        "share": 0.23
+      },
+      {
+        "region": "Ecuador / Bolivia",
+        "share": 0.434
+      },
+      {
+        "region": "Uruguay",
+        "share": 0.21
+      }
+    ]
+  },
+  "BT": {
+    "name": "Bhutan",
+    "regions": [
+      {
+        "region": "India",
+        "share": 0.007
+      },
+      {
+        "region": "Nepal / Bhutan",
+        "share": 0.102
+      }
+    ]
+  },
+  "BW": {
+    "name": "Botswana",
+    "regions": [
+      {
+        "region": "South Africa",
+        "share": 0.154
+      },
+      {
+        "region": "Namibia / Botswana",
+        "share": 0.298
+      }
+    ]
+  },
+  "BY": {
+    "name": "Belarus",
+    "regions": [
+      {
+        "region": "Poland",
+        "share": 0.008
+      },
+      {
+        "region": "Baltics",
+        "share": 0.131
+      },
+      {
+        "region": "Ukraine",
+        "share": 0.038
+      },
+      {
+        "region": "Russia (west)",
+        "share": 0.013
+      }
+    ]
+  },
+  "BZ": {
+    "name": "Belize",
+    "regions": [
+      {
+        "region": "Mexico",
+        "share": 0.008
+      },
+      {
+        "region": "Central America",
+        "share": 0.033
+      }
+    ]
+  },
+  "CA": {
+    "name": "Canada",
+    "regions": [
+      {
+        "region": "USA",
+        "share": 0.085
+      },
+      {
+        "region": "Alaska",
+        "share": 0.217
+      },
+      {
+        "region": "Canada (south)",
+        "share": 0.664
+      }
+    ]
+  },
+  "CD": {
+    "name": "Dem. Rep. Congo",
+    "regions": [
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.039
+      }
+    ]
+  },
+  "CH": {
+    "name": "Switzerland",
+    "regions": [
+      {
+        "region": "Germany",
+        "share": 0.013
+      },
+      {
+        "region": "France",
+        "share": 0.024
+      },
+      {
+        "region": "Italy",
+        "share": 0.023
+      },
+      {
+        "region": "Switzerland",
+        "share": 0.616
+      },
+      {
+        "region": "Austria",
+        "share": 0.022
+      }
+    ]
+  },
+  "CI": {
+    "name": "Côte d'Ivoire",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.105
+      }
+    ]
+  },
+  "CL": {
+    "name": "Chile",
+    "regions": [
+      {
+        "region": "Argentina",
+        "share": 0.086
+      },
+      {
+        "region": "Chile",
+        "share": 0.677
+      },
+      {
+        "region": "Ecuador / Bolivia",
+        "share": 0.011
+      }
+    ]
+  },
+  "CM": {
+    "name": "Cameroon",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.086
+      }
+    ]
+  },
+  "CN": {
+    "name": "China",
+    "regions": [
+      {
+        "region": "Japan",
+        "share": 0.068
+      },
+      {
+        "region": "India",
+        "share": 0.225
+      },
+      {
+        "region": "Vietnam / Cambodia / Laos",
+        "share": 0.101
+      },
+      {
+        "region": "Nepal / Bhutan",
+        "share": 0.268
+      },
+      {
+        "region": "Kazakhstan / Kyrgyzstan",
+        "share": 0.013
+      },
+      {
+        "region": "Mongolia",
+        "share": 0.166
+      },
+      {
+        "region": "Russia (east)",
+        "share": 0.025
+      }
+    ]
+  },
+  "CO": {
+    "name": "Colombia",
+    "regions": [
+      {
+        "region": "Central America",
+        "share": 0.009
+      },
+      {
+        "region": "Brazil (north)",
+        "share": 0.006
+      },
+      {
+        "region": "Colombia",
+        "share": 0.973
+      },
+      {
+        "region": "Ecuador / Bolivia",
+        "share": 0.045
+      }
+    ]
+  },
+  "CR": {
+    "name": "Costa Rica",
+    "regions": [
+      {
+        "region": "Central America",
+        "share": 0.092
+      }
+    ]
+  },
+  "CZ": {
+    "name": "Czechia",
+    "regions": [
+      {
+        "region": "Germany",
+        "share": 0.073
+      },
+      {
+        "region": "Austria",
+        "share": 0.042
+      },
+      {
+        "region": "Poland",
+        "share": 0.114
+      },
+      {
+        "region": "Czechia",
+        "share": 0.612
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.014
+      }
+    ]
+  },
+  "DE": {
+    "name": "Germany",
+    "regions": [
+      {
+        "region": "Germany",
+        "share": 0.74
+      },
+      {
+        "region": "France",
+        "share": 0.038
+      },
+      {
+        "region": "Netherlands",
+        "share": 0.166
+      },
+      {
+        "region": "Belgium",
+        "share": 0.035
+      },
+      {
+        "region": "Switzerland",
+        "share": 0.042
+      },
+      {
+        "region": "Austria",
+        "share": 0.275
+      },
+      {
+        "region": "Poland",
+        "share": 0.021
+      },
+      {
+        "region": "Czechia",
+        "share": 0.147
+      },
+      {
+        "region": "Denmark",
+        "share": 0.051
+      }
+    ]
+  },
+  "DK": {
+    "name": "Denmark",
+    "regions": [
+      {
+        "region": "Sweden",
+        "share": 0.007
+      },
+      {
+        "region": "Denmark",
+        "share": 0.885
+      }
+    ]
+  },
+  "DZ": {
+    "name": "Algeria",
+    "regions": [
+      {
+        "region": "Spain",
+        "share": 0.02
+      },
+      {
+        "region": "Morocco",
+        "share": 0.359
+      },
+      {
+        "region": "Tunisia",
+        "share": 0.264
+      }
+    ]
+  },
+  "EC": {
+    "name": "Ecuador",
+    "regions": [
+      {
+        "region": "Ecuador / Bolivia",
+        "share": 0.043
+      }
+    ]
+  },
+  "EE": {
+    "name": "Estonia",
+    "regions": [
+      {
+        "region": "Sweden",
+        "share": 0.006
+      },
+      {
+        "region": "Norway",
+        "share": 0.033
+      },
+      {
+        "region": "Baltics",
+        "share": 0.206
+      }
+    ]
+  },
+  "EG": {
+    "name": "Egypt",
+    "regions": [
+      {
+        "region": "Israel / Jordan",
+        "share": 0.035
+      },
+      {
+        "region": "Egypt",
+        "share": 1
+      }
+    ]
+  },
+  "ES": {
+    "name": "Spain",
+    "regions": [
+      {
+        "region": "France",
+        "share": 0.046
+      },
+      {
+        "region": "Spain",
+        "share": 0.776
+      },
+      {
+        "region": "Portugal",
+        "share": 0.318
+      }
+    ]
+  },
+  "ET": {
+    "name": "Ethiopia",
+    "regions": [
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.021
+      }
+    ]
+  },
+  "FI": {
+    "name": "Finland",
+    "regions": [
+      {
+        "region": "Sweden",
+        "share": 0.069
+      },
+      {
+        "region": "Norway",
+        "share": 0.289
+      },
+      {
+        "region": "Finland",
+        "share": 0.85
+      }
+    ]
+  },
+  "FR": {
+    "name": "France",
+    "regions": [
+      {
+        "region": "Germany",
+        "share": 0.056
+      },
+      {
+        "region": "France",
+        "share": 0.805
+      },
+      {
+        "region": "Spain",
+        "share": 0.07
+      },
+      {
+        "region": "Italy",
+        "share": 0.026
+      },
+      {
+        "region": "Belgium",
+        "share": 0.291
+      },
+      {
+        "region": "Switzerland",
+        "share": 0.17
+      }
+    ]
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "regions": [
+      {
+        "region": "France",
+        "share": 0.024
+      },
+      {
+        "region": "UK",
+        "share": 0.994
+      },
+      {
+        "region": "Ireland",
+        "share": 0.152
+      }
+    ]
+  },
+  "GE": {
+    "name": "Georgia",
+    "regions": [
+      {
+        "region": "Turkey",
+        "share": 0.02
+      }
+    ]
+  },
+  "GG": {
+    "name": "Guernsey",
+    "regions": [
+      {
+        "region": "France",
+        "share": 0
+      }
+    ]
+  },
+  "GH": {
+    "name": "Ghana",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.078
+      }
+    ]
+  },
+  "GI": {
+    "name": "Gibraltar",
+    "regions": [
+      {
+        "region": "Spain",
+        "share": 0
+      }
+    ]
+  },
+  "GM": {
+    "name": "Gambia",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.003
+      }
+    ]
+  },
+  "GN": {
+    "name": "Guinea",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.08
+      }
+    ]
+  },
+  "GR": {
+    "name": "Greece",
+    "regions": [
+      {
+        "region": "Greece",
+        "share": 0.765
+      },
+      {
+        "region": "Turkey",
+        "share": 0.009
+      }
+    ]
+  },
+  "GT": {
+    "name": "Guatemala",
+    "regions": [
+      {
+        "region": "Mexico",
+        "share": 0.026
+      },
+      {
+        "region": "Central America",
+        "share": 0.199
+      }
+    ]
+  },
+  "GW": {
+    "name": "Guinea-Bissau",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.011
+      }
+    ]
+  },
+  "HN": {
+    "name": "Honduras",
+    "regions": [
+      {
+        "region": "Central America",
+        "share": 0.204
+      }
+    ]
+  },
+  "HR": {
+    "name": "Croatia",
+    "regions": [
+      {
+        "region": "Italy",
+        "share": 0.122
+      },
+      {
+        "region": "Hungary",
+        "share": 0.039
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.097
+      }
+    ]
+  },
+  "HU": {
+    "name": "Hungary",
+    "regions": [
+      {
+        "region": "Italy",
+        "share": 0.018
+      },
+      {
+        "region": "Austria",
+        "share": 0.045
+      },
+      {
+        "region": "Romania",
+        "share": 0.079
+      },
+      {
+        "region": "Hungary",
+        "share": 0.621
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.171
+      }
+    ]
+  },
+  "ID": {
+    "name": "Indonesia",
+    "regions": [
+      {
+        "region": "Malaysia / Singapore",
+        "share": 0.31
+      },
+      {
+        "region": "Indonesia",
+        "share": 0.85
+      }
+    ]
+  },
+  "IE": {
+    "name": "Ireland",
+    "regions": [
+      {
+        "region": "Ireland",
+        "share": 0.848
+      }
+    ]
+  },
+  "IL": {
+    "name": "Israel",
+    "regions": [
+      {
+        "region": "Israel / Jordan",
+        "share": 0.119
+      }
+    ]
+  },
+  "IM": {
+    "name": "Isle of Man",
+    "regions": [
+      {
+        "region": "UK",
+        "share": 0.002
+      }
+    ]
+  },
+  "IN": {
+    "name": "India",
+    "regions": [
+      {
+        "region": "India",
+        "share": 0.551
+      },
+      {
+        "region": "Bangladesh",
+        "share": 0.387
+      },
+      {
+        "region": "Nepal / Bhutan",
+        "share": 0.287
+      }
+    ]
+  },
+  "IQ": {
+    "name": "Iraq",
+    "regions": [
+      {
+        "region": "Turkey",
+        "share": 0.036
+      },
+      {
+        "region": "Israel / Jordan",
+        "share": 0.021
+      }
+    ]
+  },
+  "IS": {
+    "name": "Iceland",
+    "regions": [
+      {
+        "region": "Iceland",
+        "share": 1
+      }
+    ]
+  },
+  "IT": {
+    "name": "Italy",
+    "regions": [
+      {
+        "region": "France",
+        "share": 0.021
+      },
+      {
+        "region": "Italy",
+        "share": 0.669
+      },
+      {
+        "region": "Switzerland",
+        "share": 0.121
+      },
+      {
+        "region": "Austria",
+        "share": 0.07
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.06
+      }
+    ]
+  },
+  "JE": {
+    "name": "Jersey",
+    "regions": [
+      {
+        "region": "France",
+        "share": 0
+      }
+    ]
+  },
+  "JO": {
+    "name": "Jordan",
+    "regions": [
+      {
+        "region": "Israel / Jordan",
+        "share": 0.442
+      }
+    ]
+  },
+  "JP": {
+    "name": "Japan",
+    "regions": [
+      {
+        "region": "Japan",
+        "share": 0.716
+      },
+      {
+        "region": "South Korea",
+        "share": 0.007
+      }
+    ]
+  },
+  "KE": {
+    "name": "Kenya",
+    "regions": [
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.264
+      }
+    ]
+  },
+  "KG": {
+    "name": "Kyrgyzstan",
+    "regions": [
+      {
+        "region": "Kazakhstan / Kyrgyzstan",
+        "share": 0.045
+      }
+    ]
+  },
+  "KH": {
+    "name": "Cambodia",
+    "regions": [
+      {
+        "region": "Thailand",
+        "share": 0.134
+      },
+      {
+        "region": "Vietnam / Cambodia / Laos",
+        "share": 0.194
+      }
+    ]
+  },
+  "KP": {
+    "name": "North Korea",
+    "regions": [
+      {
+        "region": "Japan",
+        "share": 0.007
+      },
+      {
+        "region": "South Korea",
+        "share": 0.075
+      }
+    ]
+  },
+  "KR": {
+    "name": "South Korea",
+    "regions": [
+      {
+        "region": "South Korea",
+        "share": 0.918
+      }
+    ]
+  },
+  "KZ": {
+    "name": "Kazakhstan",
+    "regions": [
+      {
+        "region": "Kazakhstan / Kyrgyzstan",
+        "share": 0.674
+      },
+      {
+        "region": "Russia (west)",
+        "share": 0.155
+      },
+      {
+        "region": "Russia (east)",
+        "share": 0.092
+      }
+    ]
+  },
+  "LA": {
+    "name": "Laos",
+    "regions": [
+      {
+        "region": "Thailand",
+        "share": 0.143
+      },
+      {
+        "region": "Vietnam / Cambodia / Laos",
+        "share": 0.187
+      }
+    ]
+  },
+  "LI": {
+    "name": "Liechtenstein",
+    "regions": [
+      {
+        "region": "Switzerland",
+        "share": 0.001
+      }
+    ]
+  },
+  "LK": {
+    "name": "Sri Lanka",
+    "regions": [
+      {
+        "region": "Sri Lanka",
+        "share": 1
+      }
+    ]
+  },
+  "LR": {
+    "name": "Liberia",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.031
+      }
+    ]
+  },
+  "LS": {
+    "name": "Lesotho",
+    "regions": [
+      {
+        "region": "South Africa",
+        "share": 0.016
+      }
+    ]
+  },
+  "LT": {
+    "name": "Lithuania",
+    "regions": [
+      {
+        "region": "Poland",
+        "share": 0.012
+      },
+      {
+        "region": "Sweden",
+        "share": 0.022
+      },
+      {
+        "region": "Baltics",
+        "share": 0.27
+      }
+    ]
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "regions": [
+      {
+        "region": "France",
+        "share": 0.004
+      },
+      {
+        "region": "Belgium",
+        "share": 0.038
+      }
+    ]
+  },
+  "LV": {
+    "name": "Latvia",
+    "regions": [
+      {
+        "region": "Sweden",
+        "share": 0.026
+      },
+      {
+        "region": "Baltics",
+        "share": 0.278
+      }
+    ]
+  },
+  "LY": {
+    "name": "Libya",
+    "regions": [
+      {
+        "region": "Tunisia",
+        "share": 0.098
+      }
+    ]
+  },
+  "MA": {
+    "name": "Morocco",
+    "regions": [
+      {
+        "region": "Morocco",
+        "share": 0.641
+      }
+    ]
+  },
+  "MC": {
+    "name": "Monaco",
+    "regions": [
+      {
+        "region": "France",
+        "share": 0
+      },
+      {
+        "region": "Italy",
+        "share": 0
+      }
+    ]
+  },
+  "MD": {
+    "name": "Moldova",
+    "regions": [
+      {
+        "region": "Romania",
+        "share": 0.085
+      },
+      {
+        "region": "Ukraine",
+        "share": 0.031
+      }
+    ]
+  },
+  "ME": {
+    "name": "Montenegro",
+    "regions": [
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.023
+      }
+    ]
+  },
+  "MK": {
+    "name": "North Macedonia",
+    "regions": [
+      {
+        "region": "Greece",
+        "share": 0.093
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.04
+      }
+    ]
+  },
+  "ML": {
+    "name": "Mali",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.077
+      }
+    ]
+  },
+  "MM": {
+    "name": "Myanmar",
+    "regions": [
+      {
+        "region": "Thailand",
+        "share": 0.097
+      },
+      {
+        "region": "India",
+        "share": 0.076
+      }
+    ]
+  },
+  "MN": {
+    "name": "Mongolia",
+    "regions": [
+      {
+        "region": "Mongolia",
+        "share": 0.81
+      },
+      {
+        "region": "Russia (east)",
+        "share": 0.012
+      }
+    ]
+  },
+  "MW": {
+    "name": "Malawi",
+    "regions": [
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.013
+      }
+    ]
+  },
+  "MX": {
+    "name": "Mexico",
+    "regions": [
+      {
+        "region": "USA",
+        "share": 0.079
+      },
+      {
+        "region": "Mexico",
+        "share": 0.689
+      },
+      {
+        "region": "Central America",
+        "share": 0.061
+      }
+    ]
+  },
+  "MY": {
+    "name": "Malaysia",
+    "regions": [
+      {
+        "region": "Thailand",
+        "share": 0.012
+      },
+      {
+        "region": "Malaysia / Singapore",
+        "share": 0.65
+      },
+      {
+        "region": "Indonesia",
+        "share": 0.138
+      },
+      {
+        "region": "Philippines",
+        "share": 0.07
+      }
+    ]
+  },
+  "MZ": {
+    "name": "Mozambique",
+    "regions": [
+      {
+        "region": "South Africa",
+        "share": 0.029
+      },
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.006
+      }
+    ]
+  },
+  "NA": {
+    "name": "Namibia",
+    "regions": [
+      {
+        "region": "South Africa",
+        "share": 0.133
+      },
+      {
+        "region": "Namibia / Botswana",
+        "share": 0.403
+      }
+    ]
+  },
+  "NE": {
+    "name": "Niger",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.04
+      }
+    ]
+  },
+  "NG": {
+    "name": "Nigeria",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.299
+      }
+    ]
+  },
+  "NI": {
+    "name": "Nicaragua",
+    "regions": [
+      {
+        "region": "Central America",
+        "share": 0.233
+      }
+    ]
+  },
+  "NL": {
+    "name": "Netherlands",
+    "regions": [
+      {
+        "region": "Germany",
+        "share": 0.03
+      },
+      {
+        "region": "Netherlands",
+        "share": 0.716
+      },
+      {
+        "region": "Belgium",
+        "share": 0.084
+      }
+    ]
+  },
+  "NO": {
+    "name": "Norway",
+    "regions": [
+      {
+        "region": "Sweden",
+        "share": 0.135
+      },
+      {
+        "region": "Norway",
+        "share": 0.295
+      }
+    ]
+  },
+  "NP": {
+    "name": "Nepal",
+    "regions": [
+      {
+        "region": "India",
+        "share": 0.027
+      },
+      {
+        "region": "Nepal / Bhutan",
+        "share": 0.342
+      }
+    ]
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "regions": [
+      {
+        "region": "New Zealand",
+        "share": 1
+      }
+    ]
+  },
+  "OM": {
+    "name": "Oman",
+    "regions": [
+      {
+        "region": "UAE / Qatar",
+        "share": 0.181
+      }
+    ]
+  },
+  "PA": {
+    "name": "Panama",
+    "regions": [
+      {
+        "region": "Central America",
+        "share": 0.133
+      }
+    ]
+  },
+  "PE": {
+    "name": "Peru",
+    "regions": [
+      {
+        "region": "Peru",
+        "share": 0.759
+      },
+      {
+        "region": "Ecuador / Bolivia",
+        "share": 0.25
+      }
+    ]
+  },
+  "PH": {
+    "name": "Philippines",
+    "regions": [
+      {
+        "region": "Philippines",
+        "share": 0.93
+      }
+    ]
+  },
+  "PK": {
+    "name": "Pakistan",
+    "regions": [
+      {
+        "region": "India",
+        "share": 0.076
+      }
+    ]
+  },
+  "PL": {
+    "name": "Poland",
+    "regions": [
+      {
+        "region": "Germany",
+        "share": 0.021
+      },
+      {
+        "region": "Poland",
+        "share": 0.78
+      },
+      {
+        "region": "Czechia",
+        "share": 0.156
+      },
+      {
+        "region": "Baltics",
+        "share": 0.034
+      },
+      {
+        "region": "Ukraine",
+        "share": 0.032
+      }
+    ]
+  },
+  "PM": {
+    "name": "St. Pierre and Miquelon",
+    "regions": [
+      {
+        "region": "Canada (south)",
+        "share": 0
+      }
+    ]
+  },
+  "PS": {
+    "name": "Palestine",
+    "regions": [
+      {
+        "region": "Israel / Jordan",
+        "share": 0.03
+      }
+    ]
+  },
+  "PT": {
+    "name": "Portugal",
+    "regions": [
+      {
+        "region": "Spain",
+        "share": 0.133
+      },
+      {
+        "region": "Portugal",
+        "share": 0.682
+      }
+    ]
+  },
+  "PY": {
+    "name": "Paraguay",
+    "regions": [
+      {
+        "region": "Brazil (east)",
+        "share": 0.028
+      },
+      {
+        "region": "Argentina",
+        "share": 0.017
+      },
+      {
+        "region": "Ecuador / Bolivia",
+        "share": 0.015
+      }
+    ]
+  },
+  "QA": {
+    "name": "Qatar",
+    "regions": [
+      {
+        "region": "UAE / Qatar",
+        "share": 0.067
+      }
+    ]
+  },
+  "RO": {
+    "name": "Romania",
+    "regions": [
+      {
+        "region": "Romania",
+        "share": 0.668
+      },
+      {
+        "region": "Hungary",
+        "share": 0.154
+      },
+      {
+        "region": "Ukraine",
+        "share": 0.169
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.084
+      }
+    ]
+  },
+  "RS": {
+    "name": "Serbia",
+    "regions": [
+      {
+        "region": "Romania",
+        "share": 0.078
+      },
+      {
+        "region": "Hungary",
+        "share": 0.024
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.136
+      }
+    ]
+  },
+  "RU": {
+    "name": "Russia",
+    "regions": [
+      {
+        "region": "Poland",
+        "share": 0.022
+      },
+      {
+        "region": "Norway",
+        "share": 0.016
+      },
+      {
+        "region": "Finland",
+        "share": 0.056
+      },
+      {
+        "region": "Baltics",
+        "share": 0.082
+      },
+      {
+        "region": "Ukraine",
+        "share": 0.172
+      },
+      {
+        "region": "Japan",
+        "share": 0.209
+      },
+      {
+        "region": "Kazakhstan / Kyrgyzstan",
+        "share": 0.136
+      },
+      {
+        "region": "Mongolia",
+        "share": 0.024
+      },
+      {
+        "region": "Russia (west)",
+        "share": 0.724
+      },
+      {
+        "region": "Russia (east)",
+        "share": 0.871
+      }
+    ]
+  },
+  "RW": {
+    "name": "Rwanda",
+    "regions": [
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.009
+      }
+    ]
+  },
+  "SA": {
+    "name": "Saudi Arabia",
+    "regions": [
+      {
+        "region": "Israel / Jordan",
+        "share": 0.255
+      },
+      {
+        "region": "UAE / Qatar",
+        "share": 0.21
+      }
+    ]
+  },
+  "SE": {
+    "name": "Sweden",
+    "regions": [
+      {
+        "region": "Sweden",
+        "share": 0.734
+      },
+      {
+        "region": "Norway",
+        "share": 0.365
+      },
+      {
+        "region": "Finland",
+        "share": 0.095
+      },
+      {
+        "region": "Denmark",
+        "share": 0.063
+      }
+    ]
+  },
+  "SG": {
+    "name": "Singapore",
+    "regions": [
+      {
+        "region": "Malaysia / Singapore",
+        "share": 0.001
+      },
+      {
+        "region": "Indonesia",
+        "share": 0
+      }
+    ]
+  },
+  "SI": {
+    "name": "Slovenia",
+    "regions": [
+      {
+        "region": "Italy",
+        "share": 0.043
+      },
+      {
+        "region": "Austria",
+        "share": 0.026
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.036
+      }
+    ]
+  },
+  "SK": {
+    "name": "Slovakia",
+    "regions": [
+      {
+        "region": "Poland",
+        "share": 0.022
+      },
+      {
+        "region": "Czechia",
+        "share": 0.053
+      },
+      {
+        "region": "Hungary",
+        "share": 0.1
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.066
+      }
+    ]
+  },
+  "SL": {
+    "name": "Sierra Leone",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.023
+      }
+    ]
+  },
+  "SM": {
+    "name": "San Marino",
+    "regions": [
+      {
+        "region": "Italy",
+        "share": 0
+      }
+    ]
+  },
+  "SN": {
+    "name": "Senegal",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.024
+      }
+    ]
+  },
+  "SO": {
+    "name": "Somalia",
+    "regions": [
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.021
+      }
+    ]
+  },
+  "SS": {
+    "name": "S. Sudan",
+    "regions": [
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.019
+      }
+    ]
+  },
+  "SV": {
+    "name": "El Salvador",
+    "regions": [
+      {
+        "region": "Central America",
+        "share": 0.037
+      }
+    ]
+  },
+  "SY": {
+    "name": "Syria",
+    "regions": [
+      {
+        "region": "Turkey",
+        "share": 0.047
+      },
+      {
+        "region": "Israel / Jordan",
+        "share": 0.095
+      }
+    ]
+  },
+  "SZ": {
+    "name": "eSwatini",
+    "regions": [
+      {
+        "region": "South Africa",
+        "share": 0.009
+      }
+    ]
+  },
+  "TG": {
+    "name": "Togo",
+    "regions": [
+      {
+        "region": "West Africa",
+        "share": 0.019
+      }
+    ]
+  },
+  "TH": {
+    "name": "Thailand",
+    "regions": [
+      {
+        "region": "Thailand",
+        "share": 0.564
+      },
+      {
+        "region": "Malaysia / Singapore",
+        "share": 0.027
+      },
+      {
+        "region": "Vietnam / Cambodia / Laos",
+        "share": 0.158
+      }
+    ]
+  },
+  "TL": {
+    "name": "Timor-Leste",
+    "regions": [
+      {
+        "region": "Indonesia",
+        "share": 0.007
+      }
+    ]
+  },
+  "TM": {
+    "name": "Turkmenistan",
+    "regions": [
+      {
+        "region": "Kazakhstan / Kyrgyzstan",
+        "share": 0.037
+      }
+    ]
+  },
+  "TN": {
+    "name": "Tunisia",
+    "regions": [
+      {
+        "region": "Italy",
+        "share": 0.007
+      },
+      {
+        "region": "Tunisia",
+        "share": 0.638
+      }
+    ]
+  },
+  "TR": {
+    "name": "Turkey",
+    "regions": [
+      {
+        "region": "Greece",
+        "share": 0.031
+      },
+      {
+        "region": "Turkey",
+        "share": 0.871
+      }
+    ]
+  },
+  "TW": {
+    "name": "Taiwan",
+    "regions": [
+      {
+        "region": "Taiwan",
+        "share": 1
+      }
+    ]
+  },
+  "TZ": {
+    "name": "Tanzania",
+    "regions": [
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.427
+      }
+    ]
+  },
+  "UA": {
+    "name": "Ukraine",
+    "regions": [
+      {
+        "region": "Poland",
+        "share": 0.021
+      },
+      {
+        "region": "Romania",
+        "share": 0.061
+      },
+      {
+        "region": "Hungary",
+        "share": 0.01
+      },
+      {
+        "region": "Ukraine",
+        "share": 0.555
+      },
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.01
+      },
+      {
+        "region": "Russia (west)",
+        "share": 0.097
+      }
+    ]
+  },
+  "UG": {
+    "name": "Uganda",
+    "regions": [
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.11
+      }
+    ]
+  },
+  "US": {
+    "name": "United States of America",
+    "regions": [
+      {
+        "region": "USA",
+        "share": 0.836
+      },
+      {
+        "region": "Alaska",
+        "share": 0.783
+      },
+      {
+        "region": "Hawaii",
+        "share": 1
+      },
+      {
+        "region": "Canada (south)",
+        "share": 0.336
+      },
+      {
+        "region": "Mexico",
+        "share": 0.276
+      }
+    ]
+  },
+  "UY": {
+    "name": "Uruguay",
+    "regions": [
+      {
+        "region": "Brazil (east)",
+        "share": 0.021
+      },
+      {
+        "region": "Uruguay",
+        "share": 0.734
+      }
+    ]
+  },
+  "UZ": {
+    "name": "Uzbekistan",
+    "regions": [
+      {
+        "region": "Kazakhstan / Kyrgyzstan",
+        "share": 0.094
+      },
+      {
+        "region": "Russia (west)",
+        "share": 0.011
+      }
+    ]
+  },
+  "VA": {
+    "name": "Vatican",
+    "regions": [
+      {
+        "region": "Italy",
+        "share": 0
+      }
+    ]
+  },
+  "VE": {
+    "name": "Venezuela",
+    "regions": [
+      {
+        "region": "Colombia",
+        "share": 0.023
+      }
+    ]
+  },
+  "VN": {
+    "name": "Vietnam",
+    "regions": [
+      {
+        "region": "Thailand",
+        "share": 0.049
+      },
+      {
+        "region": "Vietnam / Cambodia / Laos",
+        "share": 0.36
+      }
+    ]
+  },
+  "XK": {
+    "name": "Kosovo",
+    "regions": [
+      {
+        "region": "Balkans / Slovakia",
+        "share": 0.018
+      }
+    ]
+  },
+  "ZA": {
+    "name": "South Africa",
+    "regions": [
+      {
+        "region": "South Africa",
+        "share": 0.656
+      },
+      {
+        "region": "Namibia / Botswana",
+        "share": 0.23
+      }
+    ]
+  },
+  "ZM": {
+    "name": "Zambia",
+    "regions": [
+      {
+        "region": "Kenya / Tanzania / Uganda",
+        "share": 0.06
+      }
+    ]
+  },
+  "ZW": {
+    "name": "Zimbabwe",
+    "regions": [
+      {
+        "region": "Namibia / Botswana",
+        "share": 0.063
+      }
+    ]
+  }
+}
