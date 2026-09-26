@@ -1,0 +1,640 @@
+{
+  "AD": {
+    "title": "El Gran Carlemany",
+    "composer": "Enric Marfany Bons",
+    "composerDied": 1942,
+    "src": {
+      "type": "commons",
+      "file": "File:El Gran Carlemany.mid"
+    },
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 4
+    },
+    "beatsPerBar": 4,
+    "pickupBeats": 1,
+    "confidence": "low",
+    "note": "File with a wrong time signature (1/4); 4/4 with pickup 1 derived from the rhythm"
+  },
+  "AL": {
+    "title": "Himni i Flamurit",
+    "composer": "Ciprian Porumbescu",
+    "composerDied": 1883,
+    "src": {
+      "type": "score",
+      "lang": "en",
+      "page": "Himni i Flamurit",
+      "revid": 1372109145,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/6/b/6bfgjvxyjhq2alvvhoaggkegpxy1208/6bfgjvxy.midi"
+    },
+    "melody": {
+      "track": 1
+    },
+    "confidence": "medium"
+  },
+  "AT": {
+    "title": "Land der Berge, Land am Strome",
+    "composer": "Wolfgang Amadeus Mozart (attributed) / Johann Holzer",
+    "composerDied": 1818,
+    "src": {
+      "type": "commons",
+      "file": "File:Land der Berge, Land am Strome.mid",
+      "author": "Melody: W. A. Mozart (?); setting & sound file: Rabanus Flavus (Peter Gerloff)"
+    },
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 4
+    },
+    "beatsPerBar": 3,
+    "pickupBeats": 0,
+    "confidence": "medium",
+    "note": "File without a time signature event; 3/4 and pickup 0 according to the score in the Wikipedia article"
+  },
+  "AU": {
+    "title": "Advance Australia Fair",
+    "composer": "Peter Dodds McCormick",
+    "composerDied": 1916,
+    "src": {
+      "type": "commons",
+      "file": "File:Advance Australia Fair.mid"
+    },
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 4
+    },
+    "confidence": "medium"
+  },
+  "BE": {
+    "title": "La Brabançonne",
+    "composer": "François Van Campenhout",
+    "composerDied": 1848,
+    "src": {
+      "type": "score",
+      "lang": "it",
+      "page": "La Brabançonne",
+      "revid": 142781013,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/n/c/ncbpwivy0bakpi5mgzpma9yqj1itsc4/ncbpwivy.midi"
+    },
+    "confidence": "medium"
+  },
+  "CA": {
+    "title": "O Canada",
+    "composer": "Calixa Lavallée",
+    "composerDied": 1891,
+    "src": {
+      "type": "commons",
+      "file": "File:O Canada.mid"
+    },
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 3
+    },
+    "confidence": "high"
+  },
+  "CH": {
+    "title": "Schweizerpsalm",
+    "composer": "Alberich Zwyssig",
+    "composerDied": 1854,
+    "src": {
+      "type": "commons",
+      "file": "File:Trittst im Morgenrot daher.mid",
+      "author": "Melody: Alberich Zwyssig (1808-1854); setting & sound file: Rabanus Flavus (Peter Gerloff)"
+    },
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 4
+    },
+    "beatsPerBar": 3,
+    "pickupBeats": 1,
+    "confidence": "medium",
+    "note": "Setting by Rabanus Flavus; file without a valid time signature, time signature and pickup derived from the rhythm of the melody"
+  },
+  "CN": {
+    "title": "义勇军进行曲 (March of the Volunteers)",
+    "composer": "Nie Er",
+    "composerDied": 1935,
+    "src": {
+      "type": "score",
+      "lang": "en",
+      "page": "March of the Volunteers",
+      "revid": 1376614822,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/6/2/628aaoareywhsnjp8de6zi1qvh604su/628aaoar.midi"
+    },
+    "confidence": "medium"
+  },
+  "CZ": {
+    "title": "Kde domov můj",
+    "composer": "František Škroup",
+    "composerDied": 1862,
+    "src": {
+      "type": "commons",
+      "file": "File:Kde domov můj.mid"
+    },
+    "confidence": "medium"
+  },
+  "DE": {
+    "title": "Das Lied der Deutschen",
+    "composer": "Joseph Haydn",
+    "composerDied": 1809,
+    "src": {
+      "type": "score",
+      "lang": "en",
+      "page": "Deutschlandlied",
+      "revid": 1375806761,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/0/4/04ljubf88dq3vdrtx6oqz72c5lzvxhe/04ljubf8.midi"
+    },
+    "confidence": "high"
+  },
+  "DK": {
+    "title": "Der er et yndigt land",
+    "composer": "Hans Ernst Krøyer",
+    "composerDied": 1879,
+    "src": {
+      "type": "commons",
+      "file": "File:Der er et yndigt land.mid"
+    },
+    "confidence": "medium"
+  },
+  "ES": {
+    "title": "Marcha Real",
+    "composer": "traditional (Manuel de Espinosa)",
+    "composerDied": 1810,
+    "src": {
+      "type": "score",
+      "lang": "it",
+      "page": "Marcha Real",
+      "revid": 151372762,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/3/m/3mqfx5fd6xhegqox6mp8v0t1d1qv573/3mqfx5fd.midi"
+    },
+    "confidence": "medium"
+  },
+  "FI": {
+    "title": "Maamme / Vårt land",
+    "composer": "Fredrik Pacius",
+    "composerDied": 1891,
+    "src": {
+      "type": "score",
+      "site": "en.wikisource.org",
+      "lang": "en",
+      "page": "Page:The songs of Ensign Stål.djvu/44",
+      "revid": 16314830,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/b/h/bhvr6zkut4vbgmxhsie9htkvkhvmwi6/bhvr6zku.midi"
+    },
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 3
+    },
+    "pickupBeats": 1.5,
+    "confidence": "medium",
+    "note": "Wikisource transcription of \"Vårt land\" from The Songs of Ensign Stål (1925); pickup (3 eighths after a rest) set by hand because \\partial only appears at the end; manual cut after \"ljud högt, o dyra ord\" (the automatic cut would take only the first half line)",
+    "lengthBeats": 19.5,
+    "dropPickupAtEnd": true
+  },
+  "FR": {
+    "title": "La Marseillaise",
+    "composer": "Claude Joseph Rouget de Lisle",
+    "composerDied": 1836,
+    "src": {
+      "type": "score",
+      "lang": "it",
+      "page": "La Marsigliese",
+      "revid": 151946643,
+      "scoreIndex": 1,
+      "midi": "https://upload.wikimedia.org/score/p/h/phyp8g5rpjo33qteupj2ppc6b9b1qht/phyp8g5r.midi"
+    },
+    "confidence": "high"
+  },
+  "GB": {
+    "title": "God Save the King",
+    "composer": "traditional",
+    "composerDied": null,
+    "src": {
+      "type": "score",
+      "lang": "it",
+      "page": "Oben am jungen Rhein",
+      "revid": 152501636,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/h/9/h9fnqc4vaudpli09hvrajpmjog2ythp/h9fnqc4v.midi"
+    },
+    "confidence": "high",
+    "note": "Score from the it.wikipedia article on the anthem of Liechtenstein (same melody); the GB scores in it.wikipedia show historical variants"
+  },
+  "GG": {
+    "title": "God Save the King",
+    "sameAs": "GB"
+  },
+  "GI": {
+    "title": "God Save the King",
+    "sameAs": "GB"
+  },
+  "GR": {
+    "title": "Ύμνος εις την Ελευθερίαν",
+    "composer": "Nikolaos Mantzaros",
+    "composerDied": 1872,
+    "src": {
+      "type": "score",
+      "lang": "it",
+      "page": "Inno alla libertà",
+      "revid": 150001454,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/g/j/gjsds4zrxebb0qavnn2xtgx2f9ow8ng/gjsds4zr.midi"
+    },
+    "confidence": "medium"
+  },
+  "HR": {
+    "title": "Lijepa naša domovino",
+    "composer": "Josip Runjanin",
+    "composerDied": 1878,
+    "src": {
+      "type": "commons",
+      "file": "File:Lijepa naša domovino.mid"
+    },
+    "melody": {
+      "track": 2
+    },
+    "bass": {
+      "track": 4
+    },
+    "beatsPerBar": 4,
+    "pickupBeats": 0,
+    "confidence": "medium",
+    "note": "Setting by Rabanus Flavus; file without a valid time signature, time signature and pickup derived from the rhythm of the melody"
+  },
+  "HU": {
+    "title": "Himnusz",
+    "composer": "Ferenc Erkel",
+    "composerDied": 1893,
+    "src": {
+      "type": "score",
+      "lang": "en",
+      "page": "Himnusz",
+      "revid": 1363973797,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/t/p/tpae1gyaggi2dswtjpf4n4yqied4z5u/tpae1gya.midi"
+    },
+    "confidence": "medium",
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 4
+    }
+  },
+  "ID": {
+    "title": "Indonesia Raya",
+    "composer": "Wage Rudolf Supratman",
+    "composerDied": 1938,
+    "src": {
+      "type": "score",
+      "lang": "en",
+      "page": "Indonesia Raya",
+      "revid": 1372965011,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/s/c/sccornadvp0z1crbxy5w0cvq2kjjcwh/sccornad.midi"
+    },
+    "confidence": "medium"
+  },
+  "IL": {
+    "title": "התקווה (Hatikvah)",
+    "composer": "Samuel Cohen (after a folk tune)",
+    "composerDied": 1940,
+    "src": {
+      "type": "score",
+      "lang": "en",
+      "page": "Hatikvah",
+      "revid": 1375885586,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/i/b/ibrhrtd7i7hd4urzngzmb9j0ivkgngj/ibrhrtd7.midi"
+    },
+    "confidence": "medium"
+  },
+  "IM": {
+    "title": "Arrane Ashoonagh Vannin",
+    "composer": "William Henry Gill (after a Manx folk tune)",
+    "composerDied": 1951,
+    "src": {
+      "type": "commons",
+      "file": "File:Arrane Ashoonagh Vannin.mid"
+    },
+    "melody": {
+      "track": 0
+    },
+    "bass": {
+      "track": 3
+    },
+    "confidence": "medium"
+  },
+  "IN": {
+    "title": "Jana Gana Mana",
+    "composer": "Rabindranath Tagore (arrangement: Herbert Murrill)",
+    "composerDied": 1952,
+    "src": {
+      "type": "score",
+      "site": "bn.wikisource.org",
+      "lang": "bn",
+      "page": "পাতা:Score of Jana Gana Mana harmonized by Herbert Murrill.jpg",
+      "revid": 1852368,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/4/x/4x6xab15xi9lil9l6knvto7qbtvhki2/4x6xab15.midi"
+    },
+    "melody": {
+      "track": 1,
+      "graceRatio": 0,
+      "holdTop": true
+    },
+    "bass": {
+      "track": 2
+    },
+    "confidence": "high",
+    "note": "Wikisource transcription of the setting by Herbert Murrill (d. 1952); Tagore d. 1941; the file has no key signature and Krumhansl takes it for A minor, so the key C (Sa = C) is set by hand; manual cut after \"Bharata bhagya vidhata\" (followed by ties the track does not separate)",
+    "lengthBeats": 16,
+    "key": {
+      "tonic": 0,
+      "mode": "major"
+    }
+  },
+  "IT": {
+    "title": "Il Canto degli Italiani",
+    "composer": "Michele Novaro",
+    "composerDied": 1885,
+    "src": {
+      "type": "score",
+      "lang": "en",
+      "page": "Canto degli italiani",
+      "revid": 1368805845,
+      "scoreIndex": 2,
+      "midi": "https://upload.wikimedia.org/score/l/e/le5kyj2fb1jndxtq2n15n1leigycjys/le5kyj2f.midi"
+    },
+    "confidence": "medium",
+    "note": "Vocal part (without the instrumental introduction)"
+  },
+  "JE": {
+    "title": "God Save the King",
+    "sameAs": "GB"
+  },
+  "JP": {
+    "title": "Kimigayo",
+    "composer": "Hayashi Hiromori (harmonization: Franz Eckert)",
+    "composerDied": 1916,
+    "src": {
+      "type": "score",
+      "lang": "en",
+      "page": "Kimigayo",
+      "revid": 1369199160,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/f/k/fkoa6vlgmtfodg3x8jwvbplboqun37f/fkoa6vlg.midi"
+    },
+    "melody": {
+      "track": 2
+    },
+    "bass": {
+      "track": 6
+    },
+    "confidence": "high"
+  },
+  "LI": {
+    "title": "Oben am jungen Rhein",
+    "sameAs": "GB"
+  },
+  "MX": {
+    "title": "Himno Nacional Mexicano",
+    "composer": "Jaime Nunó",
+    "composerDied": 1908,
+    "src": {
+      "type": "score",
+      "site": "en.wikisource.org",
+      "lang": "en",
+      "page": "Page:Face to Face With the Mexicans.djvu/525",
+      "revid": 9575783,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/h/t/htdzaz5ke6pn5a21wyurtlff727zndw/htdzaz5k.midi"
+    },
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 4
+    },
+    "confidence": "medium",
+    "note": "Wikisource transcription of the chorus from Face to Face with the Mexicans (1887)"
+  },
+  "NL": {
+    "title": "Het Wilhelmus",
+    "composer": "traditional (melody before 1574)",
+    "composerDied": null,
+    "src": {
+      "type": "score",
+      "lang": "it",
+      "page": "Het Wilhelmus",
+      "revid": 152507650,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/n/2/n2bzfiwranzleb44bxog7hc0uq7svhp/n2bzfiwr.midi"
+    },
+    "confidence": "medium",
+    "lengthBeats": 25,
+    "dropPickupAtEnd": true,
+    "note": "Manual cut after the 2nd line (the automatic cut would include the start of the 3rd line)"
+  },
+  "PK": {
+    "title": "Qaumi Taranah",
+    "composer": "Ahmed Ghulamali Chagla",
+    "composerDied": 1953,
+    "src": {
+      "type": "score",
+      "lang": "it",
+      "page": "Inno nazionale (Pakistan)",
+      "revid": 149448227,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/g/w/gwa2drt324seg6olph8zr211n1ftdzr/gwa2drt3.midi"
+    },
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 3
+    },
+    "confidence": "medium"
+  },
+  "PL": {
+    "title": "Mazurek Dąbrowskiego",
+    "composer": "traditional (mazurka)",
+    "composerDied": null,
+    "src": {
+      "type": "score",
+      "lang": "es",
+      "page": "Himno nacional de Polonia",
+      "revid": 174068378,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/5/9/59fzgrkcb2ke5oj7m2fl2oeldoiefp5/59fzgrkc.midi"
+    },
+    "confidence": "medium"
+  },
+  "PM": {
+    "title": "La Marseillaise",
+    "sameAs": "FR",
+    "note": "French overseas collectivity"
+  },
+  "RU": {
+    "title": "Государственный гимн Российской Федерации",
+    "composer": "Alexander Alexandrov",
+    "composerDied": 1946,
+    "src": {
+      "type": "commons",
+      "file": "File:Гимн России1.mid"
+    },
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 7
+    },
+    "skipBeats": 3.25,
+    "confidence": "high",
+    "note": "The source notates in halved note values (one beat = a half note of the usual score); introductory chord skipped"
+  },
+  "SE": {
+    "title": "Du gamla, du fria",
+    "composer": "traditional (folk tune)",
+    "composerDied": null,
+    "src": {
+      "type": "score",
+      "lang": "en",
+      "page": "Du gamla, du fria",
+      "revid": 1368661950,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/k/7/k72yfo8a3gcpwjpmqpz7tdhyykbexgr/k72yfo8a.midi"
+    },
+    "confidence": "medium"
+  },
+  "SK": {
+    "title": "Nad Tatrou sa blýska",
+    "composer": "traditional (folk tune “Kopala studienku”)",
+    "composerDied": null,
+    "src": {
+      "type": "score",
+      "lang": "sk",
+      "page": "Nad Tatrou sa blýska",
+      "revid": 8199127,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/s/h/sh20zkfyb6ebmsmyp43cs3x7olpa1oa/sh20zkfy.midi"
+    },
+    "confidence": "medium",
+    "note": "The same score is also in the cs and tt Wikipedias (no independent second source); upper voice and countermelody in one track (graceRatio/holdTop); manual cut after the 2nd line",
+    "melody": {
+      "track": 1,
+      "graceRatio": 0,
+      "holdTop": true
+    },
+    "lengthBeats": 16
+  },
+  "SM": {
+    "title": "Inno Nazionale della Repubblica di San Marino",
+    "composer": "Federico Consolo",
+    "composerDied": 1906,
+    "src": {
+      "type": "score",
+      "lang": "it",
+      "page": "Inno nazionale della Repubblica di San Marino",
+      "revid": 151030814,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/7/f/7fhokb4xwa77sirez4r8ncxtdms0ak4/7fhokb4x.midi"
+    },
+    "confidence": "medium"
+  },
+  "TZ": {
+    "title": "Mungu ibariki Afrika",
+    "sameAs": "ZA",
+    "note": "same melody as the opening of the South African anthem (Nkosi Sikelel’ iAfrika, Enoch Sontonga)"
+  },
+  "UA": {
+    "title": "Ще не вмерла України і слава, і воля",
+    "composer": "Mykhailo Verbytsky",
+    "composerDied": 1870,
+    "src": {
+      "type": "commons",
+      "file": "File:Anthem of Ukraine.mid"
+    },
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 4
+    },
+    "confidence": "medium"
+  },
+  "US": {
+    "title": "The Star-Spangled Banner",
+    "composer": "John Stafford Smith",
+    "composerDied": 1836,
+    "src": {
+      "type": "commons",
+      "file": "File:2 Star Spangled Banner.mid"
+    },
+    "confidence": "high"
+  },
+  "VA": {
+    "title": "Inno e Marcia Pontificale",
+    "composer": "Charles Gounod",
+    "composerDied": 1893,
+    "src": {
+      "type": "commons",
+      "file": "File:Inno pontificale.mid"
+    },
+    "melody": {
+      "track": 1
+    },
+    "bass": {
+      "track": 2
+    },
+    "beatsPerBar": 4,
+    "pickupBeats": 0,
+    "confidence": "medium",
+    "note": "Setting by Rabanus Flavus; file without a valid time signature, time signature and pickup derived from the rhythm of the melody"
+  },
+  "ZA": {
+    "title": "Nkosi Sikelel’ iAfrika (National Anthem of South Africa)",
+    "composer": "Enoch Sontonga",
+    "composerDied": 1905,
+    "src": {
+      "type": "score",
+      "lang": "it",
+      "page": "Nkosi sikelel' iAfrika",
+      "revid": 147321498,
+      "scoreIndex": 0,
+      "midi": "https://upload.wikimedia.org/score/b/e/bez2hs705imro4bj0vqkj4zmcaghp46/bez2hs70.midi"
+    },
+    "melody": {
+      "track": 1,
+      "graceRatio": 0,
+      "holdTop": true
+    },
+    "bass": {
+      "track": 3
+    },
+    "confidence": "high",
+    "note": "Opening of the 1997 anthem = Nkosi Sikelel’ iAfrika (Sontonga); the part from Die Stem (de Villiers, d. 1977) is not included"
+  },
+  "ZM": {
+    "title": "Stand and Sing of Zambia, Proud and Free",
+    "sameAs": "ZA",
+    "note": "same melody as the opening of the South African anthem (Nkosi Sikelel’ iAfrika, Enoch Sontonga)"
+  }
+}
