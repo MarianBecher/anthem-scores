@@ -9,6 +9,9 @@ import { pitchClass } from './music.ts';
 
 const EPS = 1e-6;
 
+/** Licenses a source score may have: public domain, CC0 or CC BY-SA (any version). */
+export const ACCEPTED_LICENSE = /^(Public domain|CC0|CC BY-SA [\d.]+)$/;
+
 export interface CheckResult {
   errors: string[];
   flags: string[];
@@ -17,6 +20,7 @@ export interface CheckResult {
 export function sanityCheck(a: Anthem): CheckResult {
   const errors: string[] = [];
   const flags: string[] = [];
+  if (!ACCEPTED_LICENSE.test(a.license)) errors.push(`license "${a.license}" not accepted (only public domain, CC0 or CC BY-SA)`);
   const mel = a.melody;
   if (mel.length < 6) errors.push(`only ${mel.length} melody notes`);
   for (const [name, line] of [

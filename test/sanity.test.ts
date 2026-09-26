@@ -70,8 +70,4 @@ describe.each(anthemFiles)('%s', (file) => {
   test('passes the build checks', () => {
     expect(sanityCheck(a).errors).toEqual([]);
   });
-
-  test('only freely licensed sources', () => {
-    expect(a.license).toMatch(/^(Public domain|CC0|CC BY-SA [\d.]+|CC BY [\d.]+)$/);
-  });
 });

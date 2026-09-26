@@ -70,4 +70,9 @@ describe('sanityCheck', () => {
     expect(flags).toEqual(['final note does not fit the key (degree +2)', 'bass reaches above the melody']);
     expect(sanityCheck({ ...base, key: { tonic: 3, mode: 'major' } }).flags).toContain('ends on the third');
   });
+
+  test('rejects sources that are not public domain, CC0 or CC BY-SA', () => {
+    expect(sanityCheck({ ...base, license: 'CC BY-NC-SA 4.0' }).errors).toEqual(['license "CC BY-NC-SA 4.0" not accepted (only public domain, CC0 or CC BY-SA)']);
+    expect(sanityCheck({ ...base, license: 'CC BY-SA 2.5' }).errors).toEqual([]);
+  });
 });
