@@ -320,6 +320,22 @@ track), `pickupBeats`, `beatsPerBar`, `lengthBeats` + `dropPickupAtEnd` or
 (4 = 1/16, 3 = 1/12, `"mixed"`), `sameAs`, `skip` / `missing` (reason shown in
 the report), `note` (shown in the report), `confidence`.
 
+## Releasing
+
+CI (`.github/workflows/ci.yml`) runs typecheck, lint, tests and the package
+build on every push and pull request. Pushing a plain semver tag without a
+`v` prefix (e.g. `1.0.0`) runs `.github/workflows/publish.yml`, which checks
+that the tag equals the version in `package.json` exactly and publishes to npm
+with provenance via npm Trusted Publishing (OIDC, no token). The `.npmrc` sets
+`tag-version-prefix=""`, so `npm version` creates such tags.
+
+1. The first publish is manual: `npm publish --access public`.
+2. Then configure the trusted publisher on npmjs.com: package settings ->
+   Trusted publisher -> GitHub Actions, repository
+   `MarianBecher/anthem-scores`, workflow `publish.yml`.
+3. From then on, `npm version patch && git push --follow-tags` releases
+   (this creates and pushes a tag like `1.0.1`).
+
 ## License
 
 Code: [MIT](LICENSE), Copyright (c) 2026 Marian Becher. Note data: the license
