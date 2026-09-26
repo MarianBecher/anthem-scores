@@ -23,6 +23,27 @@
     "url": "https://github.com/MarianBecher/anthem-scores/issues"
   },
   "type": "module",
+  "sideEffects": false,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./node": {
+      "types": "./dist/node.d.ts",
+      "default": "./dist/node.js"
+    },
+    "./anthems/*": "./anthems/*",
+    "./index.json": "./anthems/index.json",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "anthems",
+    "CREDITS.md"
+  ],
   "engines": {
     "node": ">=22.18"
   },
