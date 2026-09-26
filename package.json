@@ -1,0 +1,50 @@
+{
+  "name": "anthem-scores",
+  "version": "0.1.0",
+  "description": "Note data (melody, bass, inner voices) for the opening phrases of national anthems, converted from freely licensed scores",
+  "keywords": [
+    "national-anthem",
+    "anthems",
+    "music",
+    "melody",
+    "midi",
+    "notes",
+    "score",
+    "game"
+  ],
+  "author": "Marian Becher <marian@becher-home.net>",
+  "license": "MIT",
+  "homepage": "https://github.com/MarianBecher/anthem-scores#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianBecher/anthem-scores.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarianBecher/anthem-scores/issues"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "countries": "node scripts/countries.ts",
+    "discover": "node scripts/discover.ts",
+    "inspect": "node scripts/inspect.ts",
+    "build": "node scripts/build.ts",
+    "preview": "node scripts/preview.ts",
+    "export": "node scripts/export.ts",
+    "test": "vitest run",
+    "lint": "eslint .",
+    "typecheck": "tsc -p tsconfig.json",
+    "build:package": "tsc -p tsconfig.build.json",
+    "prepublishOnly": "npm run typecheck && npm run lint && npm test && npm run build:package"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^22.20.4",
+    "eslint": "^10.11.0",
+    "typescript": "~6.0.3",
+    "typescript-eslint": "^8.70.1",
+    "vitest": "^5.0.2"
+  }
+}
