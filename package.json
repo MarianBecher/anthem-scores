@@ -1,6 +1,6 @@
 {
   "name": "anthem-scores",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Note data (melody, bass, inner voices) for the opening phrases of national anthems, converted from freely licensed scores",
   "keywords": [
     "national-anthem",
