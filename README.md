@@ -2,6 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/anthem-scores)](https://www.npmjs.com/package/anthem-scores)
 [![CI](https://github.com/MarianBecher/anthem-scores/actions/workflows/ci.yml/badge.svg)](https://github.com/MarianBecher/anthem-scores/actions/workflows/ci.yml)
+[![Built with Claude Code](https://img.shields.io/badge/built%20with-Claude%20Code-d97757)](https://claude.com/claude-code)
 
 The opening phrases of national anthems as note data: melody, bass and inner
 voices of the first 8 to 20 seconds, one small JSON file per country.
@@ -88,6 +89,13 @@ Missing countries are listed in [REPORT.md](REPORT.md). If you know a freely
 licensed score for one of them, [CONTRIBUTING.md](CONTRIBUTING.md) explains
 what counts as a source, how a score is converted and checked, and how to add
 an entry to `sources.json`.
+
+## How this was made
+
+The code, tests and docs were written by Claude (Anthropic) with Claude
+Code, directed and reviewed by me. The note data is not generated: it is
+extracted from the published scores listed in [CREDITS.md](CREDITS.md), and
+CI runs the type check, lint and test suite on every push.
 
 ## License
 
